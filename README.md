@@ -1,2 +1,2 @@
 # Bongo Cat Cogs
-For cog information, please go [here]()
+For cog information, please go [here](https://github.com/itsbongocatt/bongocat-cogs/issues/3) :3
