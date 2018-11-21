@@ -1,2 +1,2 @@
 # Bongo Cat Cogs
-Some cogs for Red, but only v3.
+For cog information, please go [here]()
