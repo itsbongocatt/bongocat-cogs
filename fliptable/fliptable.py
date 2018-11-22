@@ -1,3 +1,4 @@
+import discord
 from redbot.core import commands
 
 class fliptable(commands.Cog):
